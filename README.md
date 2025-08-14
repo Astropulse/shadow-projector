@@ -1,5 +1,8 @@
 # Pixel Shadow Projector
 
+## Examples:
+<img width="2436" height="768" alt="image" src="https://github.com/user-attachments/assets/52507900-f778-44f4-8130-6a86d9952797" />
+
 A tiny Python tool that projects soft, angled shadows for pixel art with alpha transparency. It includes a CLI and a helper to build sprite sheets that combine the original image with its projected shadow at multiple angles and lengths.
 
 The core idea:
